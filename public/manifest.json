@@ -1,0 +1,15 @@
+{
+  "name": "Movie Watch List",
+  "description": "Keeps list of movies to watch",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Movie Watch List"
+  },
+  "icons": {
+    "16": "movie-icon.png",
+    "48": "movie-icon.png",
+    "128": "movie-icon.png"
+  }
+}
